@@ -1,0 +1,8 @@
+{
+  "extName": {
+    "message": "ショートカットヘルパー"
+  }
+, "extDescription": {
+    "message": "Chrome でのショートカット入力を補助します"
+  }
+}
